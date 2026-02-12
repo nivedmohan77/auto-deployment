@@ -16,7 +16,7 @@ variable "resource_group_name" {
 
 variable "vm_size" {
   type    = string
-  default = "Standard_Eas_v4"
+  default = "Standard_E2as_v4"
 }
 
 variable "admin_username" {
